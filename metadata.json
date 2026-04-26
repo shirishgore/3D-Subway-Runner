@@ -1,0 +1,6 @@
+{
+  "name": "Subway Runner 3D",
+  "description": "An infinite 3D runner game inspired by Subway Surfers, built with React and Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
